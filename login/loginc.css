@@ -1,0 +1,35 @@
+.container {
+    width: 348px;
+    border: 1px solid #ccc;
+    padding: 66px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 50px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow:hidden;
+  }
+  
+  button {
+    width: 108%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  #error {
+    color: red;
+  }
+
+
+  
